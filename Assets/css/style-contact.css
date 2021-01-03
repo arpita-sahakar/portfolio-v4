@@ -1,0 +1,65 @@
+.navbar-name {
+  background-color: rgb(9, 146, 116);
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+.container {
+  background: white;
+}
+
+body {
+    background-image: url("../Images/background-image.jpg");
+}
+
+h1 {
+  color: rgb(9, 146, 116);
+  padding-top: 30px;
+}
+
+.btn-contact {
+  background-color: rgb(9, 146, 116);
+  border-color: rgb(9, 146, 116);
+}
+
+.btn-contact-form {
+  padding-bottom: 20px;
+}
+
+.contact-submit {
+  padding-bottom: 20px;
+}
+
+.footer-line1 {
+  background-color: #50898f;
+  height: 10px;
+}
+.footer-line2 {
+  background-color: grey;
+  height: 50px;
+  width: 100%;
+  bottom: 0;
+}
+@media only screen and (max-width: 992px) {
+    .contact-form {
+      padding: 65px 300px 65px 20px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .contact-form {
+      padding: 90px 200px 40px 20px;
+    }
+  }
+
+@media only screen and (max-width: 400px) {
+  .contact-form {
+    padding: 90px 20px 40px 20px;
+  }
+}
+
+
+
